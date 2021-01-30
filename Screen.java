@@ -1,3 +1,6 @@
+/*
+ * Sudhakara Reddy
+ */
 // Screen.java
 // Represents the screen of the ATM
 import java.awt.Button;
